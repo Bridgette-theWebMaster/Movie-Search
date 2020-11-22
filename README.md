@@ -2,7 +2,7 @@
 
 Search details on your favorite movie.
 
-(./movie-search-api.gif)
+(/movie-search-api.gif)
 
 ##Tech
 - ReactJS
